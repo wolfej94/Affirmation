@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Affirmation
+
+  Created by James Wolfe on 13/05/2023.
+  
+*/
+
+"NameInputView.PromptLabel.Text" = "I am ";
+"AffirmationStackView.MorningGreeting.Text" = "Good Morning,\n %@";
+"AffirmationStackView.AfternoonGreeting.Text" = "Good Afternoon,\n %@";
+"AffirmationStackView.EveningGreeting.Text" = "Good Evening,\n %@";
